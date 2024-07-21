@@ -12,6 +12,6 @@ You may refer to the screenshot below for the results and the scripts in the rep
 
 
 ## Other example
-We can also use asynchronous execution for internet requests, such as API calls. In this simple example, I show the time taken to check website status synchronously and asynchronously. It takes about 10 seconds to run synchronously and about 1.5 seconds to run asynchronously, resulting in approximately a 90% improvement in the time taken.
+We can also use asynchronous execution for internet requests, such as API calls. In this simple example, I show the time taken to check website status synchronously and asynchronously. It takes about 9.63 seconds to run synchronously and about 1.06 seconds to run asynchronously, resulting in approximately a 90% improvement in the time taken.
 
 ![image](https://github.com/user-attachments/assets/29ccf000-49c8-421b-9d81-2724a5b2424e)
