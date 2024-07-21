@@ -8,9 +8,13 @@ However, there is lead time in making the meals. This means that while waiting f
 
 You may refer to the screenshot below for the results and the scripts in the repository for the code.
 
-![Screenshot 2024-07-21 194759](https://github.com/user-attachments/assets/21bbb073-3194-4cea-8191-c019708e1f37)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/21bbb073-3194-4cea-8191-c019708e1f37" alt="1">
+</p>
 
 ## Other example
 We can also use asynchronous execution for internet requests, such as API calls. In this simple example, I show the time taken to check website status synchronously and asynchronously. It takes about 9.63 seconds to run synchronously and about 1.06 seconds to run asynchronously, resulting in approximately a 90% improvement in the time taken.
 
-![Screenshot 2024-07-21 194905](https://github.com/user-attachments/assets/4ba4f6e7-f600-4a36-9da5-586fd055e81c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4ba4f6e7-f600-4a36-9da5-586fd055e81c" alt="1">
+</p>
